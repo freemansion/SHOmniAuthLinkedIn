@@ -28,5 +28,5 @@ Pod::Spec.new do |s|
   s.dependency  'SHOmniAuth',             '~> 0.2.0'
   s.dependency  'SHAccountStore',         '~> 0.1.0'
   s.dependency  'SHRequest',              '~> 0.2.0'
-  s.dependency  'BLOCKSKIT',              '~> 2.2.5'
+  s.dependency  'BlocksKit',              '~> 2.2.5'
 end
